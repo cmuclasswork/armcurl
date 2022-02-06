@@ -10,8 +10,6 @@ get_ipython().system('pip install mediapipe opencv-python ')
 # In[ ]:
 
 
-pip install streamlit
-pip install streamlit-webrtc
 
 
 # In[2]:
