@@ -3,8 +3,7 @@
 
 # In[7]:
 
-
-get_ipython().system('pip install mediapipe opencv-python ')
+pip install mediapipe opencv-python
 
 
 # In[ ]:
@@ -24,8 +23,6 @@ mp_pose = mp.solutions.pose
 
 # In[ ]:
 
-
-import streamlit as st
 
 
 # In[3]:
