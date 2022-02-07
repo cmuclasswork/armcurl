@@ -239,6 +239,4 @@ def main():
 main()
 expander_faq = st.expander("More About Our Project")
 expander_faq.write("Hi there! If you have any questions about our project, or simply want to check out the source code, please visit our github repo: https://github.com/robertklee/COCO-Human-Pose")
-© 2022 GitHub, Inc.
-Terms
-Privacy
+
